@@ -14,10 +14,7 @@ Python 3.x
 pygame library
 
 Installation
-Install the required library:
-
-bash
-Copy code: pip install pygame
+Install the required library: pip install pygame
 Run the audio_player.py script.
 
 Usage
