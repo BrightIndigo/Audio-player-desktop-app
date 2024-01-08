@@ -8,9 +8,11 @@ Browse and select a folder containing audio files.
 Play the selected audio files.
 Navigate to the next and previous songs in the playlist.
 Display the name of the currently playing song.
+
 Requirements
 Python 3.x
 pygame library
+
 Installation
 Install the required library:
 
@@ -24,6 +26,7 @@ Click the "Play" button to start playing the first song in the playlist.
 Use the "Next" and "Previous" buttons to navigate through the playlist.
 The currently playing song is displayed below the buttons.
 Click the "Quit" button to exit the application.
+
 Notes
 Supported audio formats: MP3 and WAV.
 Ensure that the pygame library is installed before running the application.
