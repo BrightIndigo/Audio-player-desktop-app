@@ -1,4 +1,5 @@
 Audio Player
+
 Introduction
 The Audio Player is a simple Tkinter-based application that allows users to play audio files (MP3 and WAV) from a selected folder. It utilizes the pygame library for audio playback.
 
